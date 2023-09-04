@@ -1,0 +1,21 @@
+{
+  "name": "notes-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "inquirer": "^9.2.10",
+    "lodash": "^4.17.21",
+    "validator": "^10.11.0",
+    "yargs": "^17.7.2"
+  },
+  "devDependencies": {
+    "@types/validator": "^13.11.1"
+  }
+}
